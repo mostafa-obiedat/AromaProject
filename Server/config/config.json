@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "Alaa@1995",
+      "database": "donate_db",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
+
